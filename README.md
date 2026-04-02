@@ -1,4 +1,4 @@
-# Physics-Informed Ensemble for Legged Robot Fault Diagnosis
+# Physics-Informed Ensemble Learning for Hierarchical Fault Diagnosis in Quadruped Robots
 
 This repository provides the official implementation of the paper:
 
