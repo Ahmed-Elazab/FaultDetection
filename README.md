@@ -55,7 +55,7 @@ matplotlib>=3.5.0
 
 ```bash
 git clone https://github.com/Ahmed-Elazab/FaultDetection.git
-cd quadruped-fault-diagnosis
+cd FaultDetection
 pip install -r requirements.txt
 ```
 
