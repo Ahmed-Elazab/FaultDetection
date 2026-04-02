@@ -13,9 +13,11 @@ We propose a lightweight, interpretable, and highly efficient ensemble framework
 Unlike black-box deep learning models, our approach is transparent, robust, and deployable, making it ideal for real-world legged robotics.
 
 ## 🧠 Framework Architecture
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/cd5bf7f9-79ef-4586-bd3c-458e671a377a" width="90%" alt="Framework Diagram">
 </div>
+
 
 The pipeline consists of three stages:
 
@@ -24,9 +26,12 @@ The pipeline consists of three stages:
 3. **Hierarchical Decision**: Joint detection + classification with calibrated confidence.
 
 ## ⚙️ Algorithm Workflow
+
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4d179b63-e0de-4aeb-b498-b65ef269d0cd" width="70%" alt="Algorithm Flowchart">
 </div>
+
 
 
 ## ✨ Key Features
@@ -52,3 +57,17 @@ matplotlib>=3.5.0
 git clone https://github.com/your-username/quadruped-fault-diagnosis.git
 cd quadruped-fault-diagnosis
 pip install -r requirements.txt
+
+
+## 📝 Citation
+If you use this work in your research, please cite:
+@article{elazab2026physics,
+  title={Physics-informed ensemble learning for hierarchical fault diagnosis in quadruped robots},
+  author={Elazab, Ahmed and Wang, Changmiao and Omisore, Olatunji Mumini and Wen, Qingpeng and Li, Yonghong and Xia, Linzhong and Abdulazeem, Yousry},
+  journal={Results in Engineering},
+  volume={30},
+  pages={110256},
+  year={2026},
+  doi={10.1016/j.rineng.2026.110256},
+  url={https://www.sciencedirect.com/science/article/pii/S2590123026012909}
+}
