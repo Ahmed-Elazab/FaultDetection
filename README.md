@@ -42,7 +42,7 @@ The pipeline consists of three stages:
 - **Interpretable and robust**: Validated on 10,000+ locomotion trials
 
 ## Requirements
-
+```txt
 numpy>=1.21.0
 scikit-learn>=1.0.0
 pandas>=1.3.0
@@ -50,17 +50,19 @@ lightgbm>=3.3.0
 xgboost>=1.6.0
 joblib>=1.1.0
 matplotlib>=3.5.0
-
+```
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/your-username/quadruped-fault-diagnosis.git
 cd quadruped-fault-diagnosis
 pip install -r requirements.txt
-
+```
 
 ## 📝 Citation
 If you use this work in your research, please cite:
+
+```bibtex
 @article{elazab2026physics,
   title={Physics-informed ensemble learning for hierarchical fault diagnosis in quadruped robots},
   author={Elazab, Ahmed and Wang, Changmiao and Omisore, Olatunji Mumini and Wen, Qingpeng and Li, Yonghong and Xia, Linzhong and Abdulazeem, Yousry},
