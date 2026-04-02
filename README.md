@@ -36,6 +36,16 @@ The pipeline consists of three stages:
 - **Hierarchical diagnosis**: Joint detection and classification with sub-millisecond latency
 - **Interpretable and robust**: Validated on 10,000+ locomotion trials
 
+## Requirements
+
+numpy>=1.21.0
+scikit-learn>=1.0.0
+pandas>=1.3.0
+lightgbm>=3.3.0
+xgboost>=1.6.0
+joblib>=1.1.0
+matplotlib>=3.5.0
+
 ## 📦 Installation
 
 ```bash
