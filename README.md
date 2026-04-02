@@ -39,7 +39,7 @@ The pipeline consists of three stages:
 - **Physics-informed feature engineering**: Statistical, physics-inspired, and fault-specific descriptors
 - **Ensemble learning**: Soft voting of LightGBM, XGBoost, and Random Forest
 - **Hierarchical diagnosis**: Joint detection and classification with sub-millisecond latency
-- **Interpretable and robust**: Validated on 10,000+ locomotion trials
+- **Interpretable and robust**: Validated on 10,000 locomotion trials
 
 ## Requirements
 ```txt
