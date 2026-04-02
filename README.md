@@ -1,6 +1,9 @@
 # Physics-Informed Ensemble for Legged Robot Fault Diagnosis
 
-This repository implements the **Physics-Informed Ensemble** method for hierarchical fault detection and classification in quadrupedal robots, as described in our paper.
+This repository provides the official implementation of the paper:
+
+"Physics-Informed Ensemble Learning for Hierarchical Fault Diagnosis in Quadruped Robots", published in Results in Engineering (2026).
+
 
 ## Key Features
 
