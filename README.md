@@ -73,3 +73,7 @@ If you use this work in your research, please cite:
   doi={10.1016/j.rineng.2026.110256},
   url={https://www.sciencedirect.com/science/article/pii/S2590123026012909}
 }
+```
+
+## 📜 License
+This article is available under the Creative Commons CC-BY-NC-ND license and permits non-commercial use of the work as published, without adaptation or alteration provided the work is fully attributed.
