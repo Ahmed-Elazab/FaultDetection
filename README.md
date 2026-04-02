@@ -36,7 +36,9 @@ The pipeline consists of three stages:
 - **Hierarchical diagnosis**: Joint detection and classification with sub-millisecond latency
 - **Interpretable and robust**: Validated on 10,000+ locomotion trials
 
-## Installation
+## 📦 Installation
 
 ```bash
+git clone https://github.com/your-username/quadruped-fault-diagnosis.git
+cd quadruped-fault-diagnosis
 pip install -r requirements.txt
